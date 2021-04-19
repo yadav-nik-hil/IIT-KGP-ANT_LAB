@@ -9,6 +9,7 @@ For Non-Linear ODE -> Newton Linearisation Technique, Quasi Linearisation Techni
 
 PDE - 
 Methods like Alternating Direction Implicit Scheme, Implicit Method, Explicit Method, Crank Nicolson Scheme, Gauss Seidel.
+Transport 1D -> FTBS, FTCS(unstable), FTFS and Leap Frog Scheme.
 For Non-Linear PDE, Newton Linearisation is used with the Crank Nicolson Scheme.
 
 
